@@ -1,0 +1,12 @@
+{
+  "feeds": [
+    {
+      "id": "d7841634-721b-455e-b4b9-4dda0e253cb2",
+      "url": "https://habr.com/ru/rss/interesting/",
+      "title": "Все публикации подряд на Хабре",
+      "category": "Технологии",
+      "added_at": "2026-07-03T16:46:36.253715",
+      "last_fetched": "2026-07-03T16:46:36.510284"
+    }
+  ]
+}

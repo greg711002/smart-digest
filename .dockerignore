@@ -1,0 +1,25 @@
+# Игнорируемые файлы для Docker
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info
+dist
+build
+.env
+.env.local
+venv/
+.venv/
+node_modules/
+.git
+.gitignore
+.dockerignore
+Dockerfile*
+docker-compose*
+*.md
+*.log
+.DS_Store
+Thumbs.db
